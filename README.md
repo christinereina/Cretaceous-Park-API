@@ -1,12 +1,18 @@
 # <h1 align = "center"> Cretaceous Park API
 
+<div align="center">
+
+ ![Preview](./CretaceousPark/img/dino.png)
+
+ </div>
+
 ##### <h4 align = "center">  Building an API for Epicodus, 08.17.2020
 
 #### <h4 align = "center"> By _**Joseph Pearce & Christine Augustine**_
 
 ## Description
 
-Building an API practice 
+Building an API practice using Dinosaurs!
 
 ## Setup/Installation Requirements 
 
