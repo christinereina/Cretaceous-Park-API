@@ -2,14 +2,16 @@
 using CretaceousPark.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace CretaceousPark.Migrations
 {
     [DbContext(typeof(CretaceousParkContext))]
-    partial class CretaceousParkContextModelSnapshot : ModelSnapshot
+    [Migration("20200817214453_SeedData3")]
+    partial class SeedData3
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
